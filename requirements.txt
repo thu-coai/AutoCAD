@@ -1,0 +1,10 @@
+deepspeed==0.5.10
+jsonlines==3.0.0
+nltk==3.6.7
+numpy==1.22.2
+numpyencoder==0.3.0
+pytorch_lightning==1.5.10
+torch==1.7.1
+tqdm==4.62.3
+transformers==4.5.1
+sentencepiece==0.1.96
