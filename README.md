@@ -1,6 +1,6 @@
 # AutoCAD
 
-Code and datasets for our paper "AutoCAD: Automatically Generating Counterfactuals for Mitigating Shortcut Learning"
+Code and datasets for our paper ["AutoCAD: Automatically Generating Counterfactuals for Mitigating Shortcut Learning"](https://arxiv.org/pdf/2211.16202.pdf)
 
 ![autocad_overview](pic/autocad_overview.png)
 
