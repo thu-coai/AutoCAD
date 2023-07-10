@@ -557,7 +557,7 @@ def generate(args):
                     result.append({"text": text, "label": label, "span_label": span_label})
           
             offset += input_ids.shape[0]
-            break
+
     final_result = []
     for input_data, gen_data in zip(test_set.data, result):
         if gen_data is None: # filter None
